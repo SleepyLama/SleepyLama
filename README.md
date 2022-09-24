@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SleepyLama
 - 👀 I’m interested in coding bots and doing it right now
 - 🌱 I’m currently learning lua javascript and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I code C#, C++ , JavaScript and Luau especially for roblox
 - 📫 How to reach me : Discord : SleepyCat#2683
 
 <!---
