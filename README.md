@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding bots and doing it right now
 - 🌱 I’m currently learning lua javascript and python
 - 👀 I code C#, C++ , JavaScript and Luau especially for roblox
-- 📫 How to reach me : Discord : SleepyCat#2683
+- 📫 How to reach me : Discord : SleepyCat#0736
 
 <!---
 SleepyLama/SleepyLama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
